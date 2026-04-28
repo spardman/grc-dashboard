@@ -9,4 +9,11 @@ This project demonstrates the automation of compliance reporting using Python an
 *   **Automation:** Using Python to generate reproducible compliance snapshots.
 
 ## How to View
-The live interactive dashboard can be found here: [INSERT YOUR GITHUB PAGES LINK HERE]
+The live interactive dashboard can be found here: https://github.com/spardman/grc-dashboard
+
+
+---
+## 🔗 Connected GRC Modules
+This dashboard visualizes the maturity of controls designed to mitigate the risks documented in my:
+*   [**IT Risk Register**](https://github.com) 
+
