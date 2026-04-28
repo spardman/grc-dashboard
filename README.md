@@ -29,3 +29,21 @@ The live interactive dashboard can be found here: https://github.com/spardman/gr
 This dashboard visualizes the maturity of controls designed to mitigate the risks documented in my:
 *   [**IT Risk Register**](https://github.com) 
 
+---
+## 🚀 How to Run This Dashboard (Step-by-Step)
+To reproduce this interactive compliance report on your local machine, follow these instructions:
+
+### Prerequisites
+*   **Python 3.x** installed.
+*   The following libraries: `pip install pandas plotly`
+
+### Execution
+1.  **Clone the Repository:**
+    `git clone https://github.com`
+2.  **Navigate to Folder:**
+    `cd grc-dashboard`
+3.  **Generate the Report:**
+    Run the script: `python generate_dashboard.py`
+4.  **View Results:**
+    Open the generated `index.html` file in any web browser to see the interactive chart.
+
